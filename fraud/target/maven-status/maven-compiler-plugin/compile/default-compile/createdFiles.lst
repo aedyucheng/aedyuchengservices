@@ -1,0 +1,6 @@
+com\aedyucheng\fraud\FraudCheckHistory$FraudCheckHistoryBuilder.class
+com\aedyucheng\fraud\FraudController.class
+com\aedyucheng\fraud\FraudCheckHistory.class
+com\aedyucheng\fraud\FraudApplication.class
+com\aedyucheng\fraud\FraudCheckService.class
+com\aedyucheng\fraud\FraudCheckHistoryRepository.class

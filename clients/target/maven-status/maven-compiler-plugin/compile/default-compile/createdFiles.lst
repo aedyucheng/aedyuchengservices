@@ -1,0 +1,6 @@
+com\aedyucheng\clients\notification\NotificationRequest$NotificationRequestBuilder.class
+com\aedyucheng\clients\notification\NotificationResponse.class
+com\aedyucheng\clients\notification\NotificationClient.class
+com\aedyucheng\clients\fraud\FraudCheckResponse.class
+com\aedyucheng\clients\fraud\FraudClient.class
+com\aedyucheng\clients\notification\NotificationRequest.class
