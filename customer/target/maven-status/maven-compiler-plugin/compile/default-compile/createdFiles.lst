@@ -1,8 +1,0 @@
-com\aedyucheng\customer\Customer$CustomerBuilder.class
-com\aedyucheng\customer\CustomerController.class
-com\aedyucheng\customer\CustomerConfig.class
-com\aedyucheng\customer\CustomerRepository.class
-com\aedyucheng\customer\Customer.class
-com\aedyucheng\customer\CustomerRegistrationRequest.class
-com\aedyucheng\customer\CustomerService.class
-com\aedyucheng\customer\CustomerApplication.class
